@@ -1,0 +1,14 @@
+/*Just some basic setup of how the page will look*/
+body {
+  background-color: black;
+}
+p {
+  text-align: center;
+  color: white;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  background-color: black;
+  border: 3px solid white;
+}
